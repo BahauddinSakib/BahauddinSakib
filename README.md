@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bahauddin Sakib</h1>
-<h3 align="center">A passionate frontend developer and problem solver from Bangladesh</h3>
+<h3 align="center">A passionate frontend developer, Research enthusiast and problem solver from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" style="margin-left: 20px;" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
 <p align="left"> 
